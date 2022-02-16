@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Handouts
+parent_type: CourseSection
 parent_uid: b6b4a6a8-1731-a469-ac01-bbee69555ece
 title: 'Key Ideas #3'
 uid: 549aec3f-6e73-5dd9-08af-90e8cd2ac131

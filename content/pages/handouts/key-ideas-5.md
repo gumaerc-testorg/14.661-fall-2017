@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Handouts
+parent_type: CourseSection
 parent_uid: b6b4a6a8-1731-a469-ac01-bbee69555ece
 title: 'Key Ideas #5'
 uid: ee699e7e-53da-5ba4-5532-437ef5f8ac00

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-661-labor-economics-i-fall-2017/c186e680c574a1dae5497c6fd357fcc5_MIT14_661F17_lec_market.pdf
+file: /media/courses/14-661-labor-economics-i-fall-2017/c186e680c574a1dae5497c6fd357fcc5_MIT14_661F17_lec_market.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '14.661 F17 Lecture Note: Market Structure and the Min'
 uid: c186e680-c574-a1da-e549-7c6fd357fcc5

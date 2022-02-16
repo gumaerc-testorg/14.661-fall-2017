@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-661-labor-economics-i-fall-2017/0ece5ff389af11b58cfd121ee744e8ee_MIT14_661F17_lec_immig.pdf
+file: /media/courses/14-661-labor-economics-i-fall-2017/0ece5ff389af11b58cfd121ee744e8ee_MIT14_661F17_lec_immig.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '14.661 F17 Labor Ecomomics Lecture Notes: Comparative Static on Immigration'
 uid: 0ece5ff3-89af-11b5-8cfd-121ee744e8ee

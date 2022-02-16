@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-661-labor-economics-i-fall-2017/5c4ca1b223ba2e8975cae7d1bff1bea4_MIT14_661F17_lec_target.pdf
+file: /media/courses/14-661-labor-economics-i-fall-2017/5c4ca1b223ba2e8975cae7d1bff1bea4_MIT14_661F17_lec_target.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '14.661 F17 Lecture Note: On Target'
 uid: 5c4ca1b2-23ba-2e89-75ca-e7d1bff1bea4
