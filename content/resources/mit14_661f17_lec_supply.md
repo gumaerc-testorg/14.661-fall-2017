@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4edfd6c7-e2a5-013a-ecf2-6ee161befcc7
 resourcetype: Document
 title: '14.661 F17 Lecture Note: Life Cycle Labor Supply'
 uid: 7b8fec59-1cf1-f707-802b-9cd31c4cf228

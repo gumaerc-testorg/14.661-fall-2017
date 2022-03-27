@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4edfd6c7-e2a5-013a-ecf2-6ee161befcc7
 resourcetype: Document
 title: '14.661 F17 Lecture Note: On Target'
 uid: 5c4ca1b2-23ba-2e89-75ca-e7d1bff1bea4

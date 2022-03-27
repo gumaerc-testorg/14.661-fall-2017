@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4edfd6c7-e2a5-013a-ecf2-6ee161befcc7
 resourcetype: Document
 title: '14.661 F17 Lecture Note: Schooling, Experience, and Earnings'
 uid: 5df85712-3696-9691-e343-a84a1956bdb8

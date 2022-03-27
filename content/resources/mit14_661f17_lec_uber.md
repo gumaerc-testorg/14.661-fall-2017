@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4edfd6c7-e2a5-013a-ecf2-6ee161befcc7
 resourcetype: Document
 title: '14.661 F17 Lecture Slide: Uber vs. Taxi'
 uid: f890c812-67ea-f986-ca39-5df4d1bedc9d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4edfd6c7-e2a5-013a-ecf2-6ee161befcc7
 resourcetype: Document
 title: '14.661 Fall 2017 Labor Economics Lecture Note:  The Economic Returns to Schooling'
 uid: dc7ad5f6-6dd2-3d6d-6c92-b875d86fd755
