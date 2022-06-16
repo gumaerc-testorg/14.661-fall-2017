@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains key ideas contained in the first handout. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Handouts

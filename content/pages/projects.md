@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section describes the Empirical Project students had to complete. '
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

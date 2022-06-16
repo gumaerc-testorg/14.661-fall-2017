@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a handout about unions and collective bargaining
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Handouts

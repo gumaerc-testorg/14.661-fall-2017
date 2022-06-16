@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-661-labor-economics-i-fall-2017/eaa210e7fa82b6c43341caa59b249659_MIT14_661F17_lec_income.pdf
+file: /courses/14-661-labor-economics-i-fall-2017/eaa210e7fa82b6c43341caa59b249659_MIT14_661F17_lec_income.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

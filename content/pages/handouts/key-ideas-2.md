@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This handout contains information about life-cycle labor supply: Models
+  and ''Metrics. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Handouts
