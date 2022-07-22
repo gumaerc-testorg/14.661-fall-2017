@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: 'This section contains key ideas contained in the first handout. '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Handouts
+parent_type: CourseSection
 parent_uid: b6b4a6a8-1731-a469-ac01-bbee69555ece
 title: 'Key Ideas #1'
 uid: f0bdb5cb-dad3-0c86-cfc7-9245242cafc6

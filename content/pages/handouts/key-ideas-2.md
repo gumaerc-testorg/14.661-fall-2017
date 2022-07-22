@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This handout contains information about life-cycle labor supply: Models
+  and ''Metrics. '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Handouts
+parent_type: CourseSection
 parent_uid: b6b4a6a8-1731-a469-ac01-bbee69555ece
 title: 'Key Ideas #2'
 uid: 0711254c-2c07-2738-5c7a-23bd812b78c8
@@ -27,7 +32,7 @@ Life-Cycle Labor Supply: Models and ‘Metrics
 
 ### III. Evidence, Debates
 
-*   Random-sample microeconometric ISE estimates for prime-age males are usually small, though positive (e.g., MaCurdy 1981, <.3). These models are probably poorly identified.
+*   Random-sample microeconometric ISE estimates for prime-age males are usually small, though positive (e.g., MaCurdy 1981, \<.3). These models are probably poorly identified.
 *   Estimates for specific occupations with flexible hours are usually larger (stadium vendors, bicycle messengers, cab drivers, fisherman). Identification here is usually more credible.
 *   Angrist (1990, 1991) argues that the simple LCLS models fits average hours and wages surprisingly well. Card (1994) wonders whether the ISE is relevant for cyclical fluctuations in hours: can we really ignore wealth effects?
 *   Modern labor-supply research looks for natural and laboratory experiments that can be used to measure elasticities, seeking to distinguish intertemporal substitution from target earning, and trying to understand why workers seem to have a strong preference for immediate payouts.

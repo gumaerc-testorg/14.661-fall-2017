@@ -1,11 +1,14 @@
 ---
 content_type: page
+description: 'This section contains a list of the readings used in the course. '
+draft: false
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 38563f64-7421-f8b4-1ce5-d0d42e4ab46b
 ---
-
-First Half of the Class with Prof. Josh Angrist
------------------------------------------------
+## First Half of the Class with Prof. Josh Angrist
 
 \[MHE\] J. Angrist and J-S Pischke, _Mostly Harmless Econometrics: An Empiricist's Companion,_ Princeton University Press, 2008. ISBN: 9780691120355.
 
@@ -17,31 +20,17 @@ First Half of the Class with Prof. Josh Angrist
 
 ### Note: An (M) indicates work done as part of an MIT thesis. 
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 I.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Labor Market Facts and Trends
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 C. Goldin, "[Labor Markets in the 20th Century](http://www.nber.org/papers/h0058)," NBER Historical Working Paper No. 8, June 1994 \[also in Cambridge Economic History of the US, pp. 1-85\].
 
@@ -49,21 +38,21 @@ C. Romer, "[Spurious Volatility in Historical Unemployment Data](http://www.jour
 
 C. Goldin and R. Margo, “[The Great Compression: The Wage Structure in the United States at Mid-century](http://www.nber.org/papers/w3817),” _Quarterly Journal of Economics_, February 1992.
 
-D. Autor and M. Duggan, " ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Rise in the Disability Rolls and the Decline in Unemployment (PDF)](https://economics.mit.edu/files/11573)," _Quarterly Journal of Economics_, February 2003.
+D. Autor and M. Duggan, " [The Rise in the Disability Rolls and the Decline in Unemployment (PDF)](https://economics.mit.edu/files/11573)," _Quarterly Journal of Economics_, February 2003.
 
 H. Farber, "[Job Loss and the Decline in Job Security in the United States](http://www.nber.org/chapters/c10822),” in Abraham, K. Spletzer, J. and Harper, M., eds., _Labor in the New Economy_, University of Chicago, 2010.
 
-L. Katz and D. Autor, “ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Changes in the Wage Structure and Earnings Inequality" (PDF - 6.2MB)](https://economics.mit.edu/files/11676), chapter 26 in \[HOLE 3A\].
+L. Katz and D. Autor, “ [Changes in the Wage Structure and Earnings Inequality" (PDF - 6.2MB)](https://economics.mit.edu/files/11676), chapter 26 in \[HOLE 3A\].
 
 (M) T. Lemieux, “[The Changing Nature of U.S. Wage Inequality](http://www.nber.org/papers/w13523),” _J. of Population Economics_, 2007.
 
-D. Autor, L. Katz, and M. Kearney, “ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Trends in U.S. Wage Inequality: Revising the Revisionists (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/rest.90.2.300),” _The Review of Economics and Statistics_, May 2008. (M)
+D. Autor, L. Katz, and M. Kearney, “ [Trends in U.S. Wage Inequality: Revising the Revisionists (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/rest.90.2.300),” _The Review of Economics and Statistics_, May 2008. (M)
 
-E. Saez and T. Piketty, “ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Income Inequality in the United States: 1913-1998 (PDF)](https://eml.berkeley.edu/~saez/pikettyqje.pdf)," _Quarterly Journal of Economics_, February 2003 (and web updates on [Saez home page](https://eml.berkeley.edu/~saez/)).
+E. Saez and T. Piketty, “ [Income Inequality in the United States: 1913-1998 (PDF)](https://eml.berkeley.edu/~saez/pikettyqje.pdf)," _Quarterly Journal of Economics_, February 2003 (and web updates on [Saez home page](https://eml.berkeley.edu/~saez/)).
 
-W. Kopczuk, E. Saez, and J. Song, “ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Earnings Inequality and Mobility in the United States: Evidence From Social Security Data Since 1937 (PDF)](https://eml.berkeley.edu/~saez/kopczuk-saez-songQJE10mobility.pdf),” _The QJE_, 125(1), February 2010.
+W. Kopczuk, E. Saez, and J. Song, “ [Earnings Inequality and Mobility in the United States: Evidence From Social Security Data Since 1937 (PDF)](https://eml.berkeley.edu/~saez/kopczuk-saez-songQJE10mobility.pdf),” _The QJE_, 125(1), February 2010.
 
-M. Elsby, B. Hobijn, and A. Sahin, “[The Labor Market in the Great Recession](http://www.nber.org/papers/w15979),” _BPEA_ Spring 2010 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2011 update (PDF - 1.2MB)](https://www.brookings.edu/wp-content/uploads/2011/09/2011b_bpea_elsby.pdf))
+M. Elsby, B. Hobijn, and A. Sahin, “[The Labor Market in the Great Recession](http://www.nber.org/papers/w15979),” _BPEA_ Spring 2010 ([2011 update (PDF - 1.2MB)](https://www.brookings.edu/wp-content/uploads/2011/09/2011b_bpea_elsby.pdf))
 
 C.B. Mulligan, “[Do Welfare Policies Matter for Labor Market Aggregates? Quantifying Safety Net Work Incentives Since 2007](http://www.nber.org/papers/w18088),” NBER Working Paper 18088 (May 2012).
 
@@ -71,29 +60,17 @@ J. Rothstein, "[The Labor Market Four Years Into the Crisis: Assessing Structura
 
 H. Farber, “[Employment, Hours, and Earnings Consequences of Job Loss; US Evidence from the Displaced Workers Survey](http://www.journals.uchicago.edu/doi/abs/10.1086/692353),” _JOLE_ 35 S1 (July 2017).
 
-D. Autor, “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Why Are There Still So Many Jobs? The History and Future of Workplace Automation (PDF)](https://economics.mit.edu/files/11563),” _J. Economic Perspectives_ 29 (Summer 2015), 3-30.
+D. Autor, “[Why Are There Still So Many Jobs? The History and Future of Workplace Automation (PDF)](https://economics.mit.edu/files/11563),” _J. Economic Perspectives_ 29 (Summer 2015), 3-30.
 
  L. Katz and C. Goldin, _The Race Between Education and Technology_, Harvard University Press, 2010. ISBN: 9780674035300.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. The Neoclassical Labor Supply Model**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIa.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Basics
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
  A. Deaton and J. Muellbauer, _Economics and Consumer Behavior_, Cambridge University Press, 1980, especially Chapter 4. ISBN: 9780521296762.
 
@@ -111,19 +88,11 @@ R. Imbens, D. Rubin, and B. Sacerdote, “[Estimating the Effect of Unearned Inc
 
 D. Cesarini, E. Lindqvist, M. Notowidigdo, and R. Östling, “[The Effect of Wealth on Individual and Household Labor Supply: Evidence from Swedish Lotteries](http://www.nber.org/papers/w21762),” _American Economic Review_, forthcoming.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIb.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Tax and Transfer Programs
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 R. Moffitt, “Welfare Programs and Labor Supply,” _Handbook of Public Economics: Volume 4_. eds. A. Aurbach and M. Feldstein, September 2002. ISBN: 9781493302499.
 
@@ -131,7 +100,7 @@ N. Eissa and J. Leibman, “[Labor Supply Response to the Earned Income Tax Cred
 
 B. Meyer and D. Rosenbaum, "[Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers](http://www.nber.org/papers/w7363)" (with Dan T. Rosenbaum), _Quarterly Journal of Economics CXVI_, August 2001, 1063-1114.
 
-O. Ashenfelter, "The Labor Supply Response of Wage Earners," in Palmer and Pechman, eds., _[Welfare in Rural Areas: The North Carolina-Iowa Income Maintenance Experiment](https://doi.org/10.1093/sw/24.4.342)_, Brookings, 1978, 109-148. _Social Work_, 24 \[4\], 1979, 342–343.
+O. Ashenfelter, "The Labor Supply Response of Wage Earners," in Palmer and Pechman, eds., [_Welfare in Rural Areas: The North Carolina-Iowa Income Maintenance Experiment_](https://doi.org/10.1093/sw/24.4.342), Brookings, 1978, 109-148. _Social Work_, 24 \[4\], 1979, 342–343.
 
 D. Greenberg, and H. Halsey, "[Systematic Misreporting and Effects of Income Maintenance Experiments on Work Effort: Evidence from the SIME-DIME](https://www.journals.uchicago.edu/doi/abs/10.1086/298019)," _Journal of Labor Economics_, 1\[4\], October 1983, 380-407.
 
@@ -149,19 +118,11 @@ J. Rothstein, "[Is the EITC as Good as an NIT? Conditional Cash Transfers and Ta
 
 R. Chetty, J. Friedman, and E. Saez, “[Using Differences in Knowledge Across Neighborhoods to Uncover the Impacts of the EITC on Earnings](https://www.aeaweb.org/articles?id=10.1257/aer.103.7.2683),” _The AER,_ 103 (December 2013), 2683-2721.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIc.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Life-Cycle Model
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 R.E. Lucas and L. Rapping, “[Real Wages, Employment, and Inflation](https://www.jstor.org/stable/1829964?seq=1#page_scan_tab_contents),” _Journal of Political Economy_, 77\[5\], September-October 1969, 721-764.
 
@@ -207,19 +168,11 @@ J. Angrist, S. Cadlwell, and J. Hall, “[Uber vs Taxi: A Driver’s Eye View](h
 
 A. Mas and A. Pallais, “[Labor Supply and the Value of Non-Work Time: Experimental Estimates from the Field](http://www.nber.org/papers/w23906),” Harvard Economics Dept Working Paper, July 2017.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IId.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Household and Family Models
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
  G. Becker, 1981, _A Treatise on the Family_, Cambridge: Harvard University Press. ISBN: 9780674906990.
 
@@ -247,27 +200,15 @@ P. Kline and C.R. Walters, [“Evaluating Public Programs with Close Substitutes
 
 \[MHE\] Chapter 4 (Instrumental Variables), and \[MM\] Chapter 3.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **III. Labor Demand and Demand-Side Institutions and Policies**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIIa.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Labor Demand
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
- D. Hamermesh, _Labor Demand_, Princeton, NJ: Princeton University Press, Chapters 2-3, 18-136. ISBN:9780691025872.
+D. Hamermesh, _Labor Demand_, Princeton, NJ: Princeton University Press, Chapters 2-3, 18-136. ISBN:9780691025872.
 
 D. Hamermesh, “The Demand for Labor in the Long Run,” Chapter 8 in \[HOLE\].
 
@@ -279,19 +220,11 @@ J. Angrist, "[Short-Run Demand for Palestinian Labor](https://www.jstor.org/stab
 
 D. Card and T. Lemieux, “[Can Falling Supply Explain the Rising Return to College for Younger Men? A Cohort-based Analysis](https://academic.oup.com/qje/article/116/2/705/1904202),” _QJE_ 116 (May 2001), 705-746.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIIb.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Market Structure and the Min
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 C. Brown, “Minimum Wages, Employment, and the Distribution of Income”, Chapter 32 in \[HOLE 3A\].
 
@@ -309,19 +242,11 @@ C. Propper,and J. Van Reenen, “[Can Pay Regulation Kill? Panel Data Evidence o
 
 \[MHE\] Chapter 5 and \[MM\] Chapter 5.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIIc.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Immigration and Migration
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 G.E. Johnson, "[The Labor Market Effects of Immigration](https://www.jstor.org/stable/2522570?seq=1#page_scan_tab_contents)," _Industrial and Labor Relations Review_ 33 (April 1980).
 
@@ -333,7 +258,7 @@ D. Card, "[The Impact of the Mariel Boatlift on the Miami Labor Market](https://
 
 G. Borjas, R. Freeman, and L. Katz. "[How Much Do Immigrant and Trade Affect Labor Market Outcomes?](https://www.brookings.edu/bpea-articles/how-much-do-immigration-and-trade-affect-labor-market-outcomes/)" Brookings Papers on Economic Activity, no. 1 (1997).
 
-J-S. Pischke, and J. Velling, “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Employment Effects of Immigration to Germany: An Analysis Based on Local Labor Markets (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/003465397557178),” _The Review of Economics and Statistics_ 79 (Nov. 1997), 594-604.
+J-S. Pischke, and J. Velling, “[Employment Effects of Immigration to Germany: An Analysis Based on Local Labor Markets (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/003465397557178),” _The Review of Economics and Statistics_ 79 (Nov. 1997), 594-604.
 
 J. Angrist and A. Kugler, “[Protective or Counter-Productive? Labor Market Institutions and the Effect of Immigration on EU Natives](http://www.nber.org/papers/w8660),” _The Economic Journal_, June 2003.
 
@@ -351,19 +276,11 @@ G. Ottaviano and G. Peri, “[Rethinking the Effects of Immigration on Wages](ht
 
 G. Borjas, “[The Wage Impact of the Marielitos: A Reappraisal](http://www.nber.org/papers/w21588),” _Industrial and Labor Relations Review_, forthcoming 2017. (see also [Clemens and Hunt](http://www.nber.org/papers/w23433))
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIId.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Unions
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 G. Borjas, _Labor Economics, 5th Ed_., McGraw-Hill, 2010 (Chapter 10). ISBN: 9780078021886.
 
@@ -383,7 +300,7 @@ J. DiNardo and D.S. Lee, “[Economic Impacts of New Unionization on US Private 
 
 D. Lee and A. Mas, “[Long-run Impacts of Unions on Firms: New Evidence from Financial Markets, 1961-1999](http://www.nber.org/papers/w14709),” _The Quarterly Journal of Economics_, 2012, 127(1), 333-378.
 
-B. Frandsen, “ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Surprising Impacts of Unionization: Evidence from Matched Employer- Employee Data (PDF)](https://www.semanticscholar.org/paper/THE-SURPRISING-IMPACTS-OF-UNIONIZATION-%3A-EVIDENCE-%E2%88%97-Frandsen/fec489629781e0e77ed2978a168f2c6b08b89245),” BYU Economics Department, Manuscript, December 2014. (M)
+B. Frandsen, “ [The Surprising Impacts of Unionization: Evidence from Matched Employer- Employee Data (PDF)](https://www.semanticscholar.org/paper/THE-SURPRISING-IMPACTS-OF-UNIONIZATION-%3A-EVIDENCE-%E2%88%97-Frandsen/fec489629781e0e77ed2978a168f2c6b08b89245),” BYU Economics Department, Manuscript, December 2014. (M)
 
 B. Frandsen, “[The Effects of Collective Bargaining Rights on Public Employee Compensation: Evidence from Teachers, Fire Fighters, and Police](http://journals.sagepub.com/doi/abs/10.1177/0019793915603068),” _The Industrial and Labor Relations Review_, 2016. (M)
 
@@ -393,27 +310,15 @@ C. Hoxby, “[How Teachers Unions Affect Education Production](https://www.jstor
 
 JN Brown, “[Testing the Efficiency of Employment Contracts](https://www.jstor.org/stable/1837176?seq=1#page_scan_tab_contents),” _Journal of Political Economy_ 1986, S40-S87.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **IV. Human Capital**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IVa.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Schooling, Experience, and Earnings
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-J. Mincer, _[Schooling, Experience, and Earnings](http://papers.nber.org/books/minc74-1)_, New York: NBER, 1974.
+J. Mincer, [_Schooling, Experience, and Earnings_](http://papers.nber.org/books/minc74-1), New York: NBER, 1974.
 
 G. Becker, _Human Capital, 3rd Edition_, Chicago: University of Chicago Press, 1993. ISBN: 9780226041223.
 
@@ -431,19 +336,11 @@ J. Tyler, Richard J. Murnane and John Willett, “[Estimating the Labor Market S
 
 P. Martorell and D. Clark, “[The Signaling Value of a High School Diploma](http://www.journals.uchicago.edu/doi/abs/10.1086/675238),” _Journal of Political Economy_, 122\[2\], April 2014.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IVb.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Empirical Earnings Functions
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 _Returns-to-schooling econometrics_
 
@@ -453,7 +350,7 @@ Z. Griliches, “[Estimating the Returns to Schooling: Some Econometric Problems
 
 J.D. Angrist and A. Krueger, "[Does Compulsory Schooling Attendance Affect Schooling and Earnings?](https://www.jstor.org/stable/2937954?seq=1#page_scan_tab_contents)" _Quarterly Journal of Economics,_ 106\[4\], Nov 1991, 979-1014.
 
-K. Lang, “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ability Bias, Discount Rate Bias, and the Returns to Schooling (PDF)](http://people.bu.edu/lang/ability.pdf),” Boston University mimeo, 1993.
+K. Lang, “[Ability Bias, Discount Rate Bias, and the Returns to Schooling (PDF)](http://people.bu.edu/lang/ability.pdf),” Boston University mimeo, 1993.
 
 D. Card, "[Earnings, Schooling, and Ability Revisited](http://www.nber.org/papers/w4832)," in: S. Polachek, ed. _Research in Labor Economics_, 14, 1995, 23-48.
 
@@ -479,65 +376,41 @@ K. M. Murphy and F. Welch, “[Empirical Age-Earnings Profiles](https://www.jsto
 
 Topel Robert and Michael Ward (1992). "[Job Mobility and the Careers of Young Men](https://www.jstor.org/stable/2118478)," _Quarterly Journal of Economics_ 107 \[2\], 439-479.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512947) Lazear, Edward P. _Personnel Economics_, Cambridge: MIT Press, 1995, Chapter 7. ISBN: 9780262512947.
+![Buy at MIT Press](/images/mp_logo.gif) Lazear, Edward P. _Personnel Economics_, Cambridge: MIT Press, 1995, Chapter 7. ISBN: 9780262512947.
 
 J. Angrist, "[Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records](http://www.jstor.org/stable/2006669?seq=1#page_scan_tab_contents)," _American Economic Review_, 80\[3\], June 1990, 313-336.
 
 J. Angrist and S. Chen, “[Schooling and the Vietnam-Era GI Bill: Evidence from the Draft Lottery](https://www.aeaweb.org/articles?id=10.1257/app.3.2.96),” _American Economic Journal: Applied Economics_, April 2011, 3, 96-119.
 
-D. Acemoglu, and J-S. Pischke (1999). “[Beyond Becker: Training in Imperfect Labor Markets](http://www.nber.org/papers/w6740),” _Economic Journa__l_ vol 109 February 1999, pp F112-142.
+D. Acemoglu, and J-S. Pischke (1999). “[Beyond Becker: Training in Imperfect Labor Markets](http://www.nber.org/papers/w6740),” _Economic Journal_ vol 109 February 1999, pp F112-142.
 
 D. Autor, (2001) “[Why Do Temporary Help Firms Provide Free General Skills Training?](http://www.nber.org/papers/w7637)”, _Quarterly Journal of Economics_, Vol. 116, No. 3, pp. 1409-1448. (M)
 
 L. Jacobson, R. LaLonde and D. Sullivan (1993). "[Earning Losses of Displaced Workers](https://www.jstor.org/stable/2117574)," _American Economic Review_, vol. 83, pp. 685-709.
 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< tdclose >}}
+## Second Half of the Class with Prof. Daron Acemoglu
 
-{{< trclose >}}
+![Buy at MIT Press](/images/mp_logo.gif) Cahuc, Pierre, Stéphane Carcillo, and André Zylberberg. _Labor Economics, Second Edition_. MIT Press, 2014. ISBN:  9780262027700.
 
-{{< tableclose >}}
-
-Second Half of the Class with Prof. Daron Acemoglu
---------------------------------------------------
-
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027700) Cahuc, Pierre, Stéphane Carcillo, and André Zylberberg. _Labor Economics, Second Edition_. MIT Press, 2014. ISBN:  9780262027700.
-
- You may also want to consult the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[lecture notes (PDF - 2.3MB)](https://economics.mit.edu/files/4689) by Daron Acemoglu and David Autor, though these do not cover all our material. 
+ You may also want to consult the [lecture notes (PDF - 2.3MB)](https://economics.mit.edu/files/4689) by Daron Acemoglu and David Autor, though these do not cover all our material. 
 
 Note: An \* indicates a recommended reading. 
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **I. Labor Market Externalities**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Ia.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Non-Pecuniary and Pecuniary Externalities in the Labor Market
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Rauch, James E. (1993) “[Productivity Gains from Geographic Concentration of Human Capital Evidence from the Cities](https://www.sciencedirect.com/science/article/pii/S0094119083710429),” _Journal of Urban Economics_ 34, 380-400.
 
@@ -545,19 +418,11 @@ Rauch, James E. (1993) “[Productivity Gains from Geographic Concentration of H
 
 \*Acemoglu, Daron and Joshua Angrist (2000) “[How Large Are The External Returns to Education: Evidence from Compulsory Schooling Laws](https://www.journals.uchicago.edu/doi/abs/10.1086/654403),” NBER Macro Annual 2000.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Ib.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Signaling
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \*Spence, Michael (1973) “[Job Market Signaling](https://www.jstor.org/stable/1882010?seq=1#page_scan_tab_contents),” _Quarterly Journal of Economics_, 87(3), 355 – 374.
 
@@ -569,31 +434,19 @@ Bedard, Kelly (2001) “[Human Capital Versus Signaling Models: University Acces
 
 \*Tyler, John, Richard J. Murnane and John Willett (2000) “[Estimating the Labor Market Signaling value of the GED](https://academic.oup.com/qje/article/115/2/431/1840448),” _Quarterly Journal of Economics_, 115(2), 431-468.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Social Mobility, Peer Effects and Human Capital**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIa.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Social Mobility
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \*Becker, Gary and Nigel Tomes "[Human Capital and the Rise and Fall of Families](https://www.jstor.org/stable/2534952?seq=1#page_scan_tab_contents)," _Journal of Labor Economics_ 4, (1986) S1-S39.
 
 \*Solon, Gary “[Intergenerational Income Mobility in the United States](http://www.jstor.org/stable/2117312?seq=1#page_scan_tab_contents),” _American Economic Review_ v82, n3 (June 1992): 393-408
 
-Zimmerman, David J. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Regression Toward Mediocrity in Economic Stature (PDF - 1.2MB)](http://www.uh.edu/~adkugler/Zimmerman.pdf)” _American Economic Review_ v82, n3 (June 1992): 409-29
+Zimmerman, David J. “[Regression Toward Mediocrity in Economic Stature (PDF - 1.2MB)](http://www.uh.edu/~adkugler/Zimmerman.pdf)” _American Economic Review_ v82, n3 (June 1992): 409-29
 
 Mulligan Casey, _Parental Priorities and Economic Inequality_, (1997) University of Chicago Press. ISBN: 9780226548401.
 
@@ -607,25 +460,17 @@ Roback, Jennifer (1982) “[Wages, Rents and the Quality of Life](https://www.js
 
 \*Galor, Oded and Joseph Zeira (1993) “[Income Distribution and Macroeconomics](https://academic.oup.com/restud/article-abstract/60/1/35/1576085).” _Review of Economic Studies_, 60, pp. 35-52.
 
-\*Benabou, Roland (1996) “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Heterogeneity, Stratification and Growth: Macroeconomic Implications of Community Structure in School Finance (PDF - 3.2MB)](https://www.princeton.edu/~rbenabou/papers/papers/AER1996.pdf)” _American Economic Review_ Vol. 86, No. 3, pp. 584-609.
+\*Benabou, Roland (1996) “[Heterogeneity, Stratification and Growth: Macroeconomic Implications of Community Structure in School Finance (PDF - 3.2MB)](https://www.princeton.edu/~rbenabou/papers/papers/AER1996.pdf)” _American Economic Review_ Vol. 86, No. 3, pp. 584-609.
 
 Fernandez, Racquel and Richard Rogerson (1996) “[Income Distribution, Communities and the Quality of Public Education](http://www.nber.org/papers/w4158),” _Quarterly Journal of Economics_ 111(1), 135-164.
 
 Hoxby, Caroline (1996) “[Are Efficiency and Equity in School Finance Substitutes or Complements](https://www.aeaweb.org/articles?id=10.1257/jep.10.4.51)”, _Journal of Economic Perspectives_, Vol. 10, No. 4, pp. 51-72.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIb.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Peer Effects
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Lazear, Edward P. (2001) “[Educational Production](https://www.jstor.org/stable/2696418?seq=1#page_scan_tab_contents)” _Quarterly Journal of Economics_, 116(3), 777-803.
 
@@ -643,7 +488,7 @@ Angrist, Joshua (2014) “[The Perils of Peer Effects](http://www.nber.org/paper
 
 Zimmerman, David (2003) “[Peer Effects in Higher Education: Evidence from a Natural Experiment](https://www.mitpressjournals.org/doi/abs/10.1162/003465303762687677),” _Review of Economics and Statistics_, 85, 9-23.
 
-Lyle, David (2007) “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Estimating and Interpreting Peer and Role Model Effects from Randomly Assigned Social Groups at West Point (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/rest.89.2.289)” Review of Economics and Statistics, 89, 289-299.
+Lyle, David (2007) “[Estimating and Interpreting Peer and Role Model Effects from Randomly Assigned Social Groups at West Point (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/rest.89.2.289)” Review of Economics and Statistics, 89, 289-299.
 
 Mas, Alex and Enrico Moretti (2009) “[Peers at Work](https://www.aeaweb.org/articles?id=10.1257/aer.99.1.112)” _American Economic Review_, American Economic Association, vol. 99(1), pages 112-45, March.
 
@@ -659,25 +504,13 @@ Acemoglu, Daron, Camilo Jimeno García and James a Robinson (2015) “[State Cap
 
 \*Carrell, Scott, Bruce Sacerdote and James West (2013) “[From Natural Variation to Optimal Policy? The Lucas Critique Meets Peer Effects](http://www.nber.org/papers/w16865)” _Econometrica_, 81(3), 855-882.  
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **III. Incentives, Agency and Efficiency Wages**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIIa.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Multitasking
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \*Holmström, Bengt (1979) “[Moral Hazard and Observability](https://www.jstor.org/stable/3003320?seq=1#page_scan_tab_contents),” _Bell Journal of Economics_, 10, 74-91.
 
@@ -693,19 +526,11 @@ Courty, Pascal, and Gerald Marschke (2004) “[An Empirical Investigation of Gam
 
 Alston, Lee, and Robert Higgs (1982) “[Contractual Mix in Southern Agriculture since the Civil War: Facts, Hypotheses, and Test](https://www.jstor.org/stable/2120131?seq=1#page_scan_tab_contents).” _Journal of Economic History_ 42:327-53.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIIb.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Career Concerns in the Private and the Public Sector
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \*Holmström, Bengt (1999) “[Managerial Incentive Problems: A Dynamic Perspective](https://www.jstor.org/stable/2566954?seq=1#page_scan_tab_contents),” _Review of Economic Studies_ 66, n1: 169-82.
 
@@ -717,19 +542,11 @@ Acemoglu, Daron, Michael Kremer and Atif Mian (2007) “[Incentives in Markets, 
 
 Chevalier, Judith and Glenn Ellison (1999) “[Career Concerns of Mutual Fund Managers](https://www.jstor.org/stable/2587013?seq=1#page_scan_tab_contents).” _Quarterly Journal of Economics_ 114: 389-432.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IIIc.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Efficiency Wages
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \*Carl Shapiro and Joseph Stiglitz (1984) “[Equilibrium Unemployment as Worker Discipline Device](https://www.jstor.org/stable/1804018?seq=1#page_scan_tab_contents),” _American Economic Review_, vol. 74(3), pages 433-44, June.
 
@@ -737,7 +554,7 @@ Bulow, Jeremy and Lawrence Summers (1986) "[A Theory of Dual Labor Markets with 
 
 Acemoglu, Daron and Andrew Newman (2002) "[The Labor Market and Corporate Structure](https://www.sciencedirect.com/science/article/pii/S0014292101001994)," _European Economic Review_, December, volume 46, pp. 1733-1756.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512947) Lazear, Edward (1996) "Chapter 3." In _Personnel Economics._ MIT University Press, ISBN: 9780262512947.
+![Buy at MIT Press](/images/mp_logo.gif) Lazear, Edward (1996) "Chapter 3." In _Personnel Economics._ MIT University Press, ISBN: 9780262512947.
 
 Raff, Danielle and Lawrence Summers (1987) "[Did Henry Ford Pay Efficiency Wages?](https://www.jstor.org/stable/2534911?seq=1#page_scan_tab_contents)" _Journal of Labor Economics_, vol. 5, S57-S86.
 
@@ -751,25 +568,13 @@ Krueger, Alan B. (1991) “[Ownership, Agency and Wages: An Examination of Franc
 
 \*Krueger, Alan B, and Lawrence H. Summers (1988) “[Efficiency Wages and the Inter-Industry Wage Structure](http://www.jstor.org/stable/pdf/1911072.pdf)," _Econometrica_, 56(2) 259 - 93.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **IV. Investment in Skills**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IVa.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Holdups and Investments
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \*Grout, Paul, 1984 "[Investment and Wages in the Absence of Binding Contracts: A Nash Bargaining Approach](https://www.jstor.org/stable/pdf/1911498.pdf?seq=1#page_scan_tab_contents)," _Econometrica_, 52, 449-460.
 
@@ -777,19 +582,11 @@ Grossman, Sanford and Oliver Hart (1986) "[The Costs and Benefits of Ownership: 
 
 Hart, Oliver and John H. Moore, 1990 "[Property Rights and the Nature of the Firm](https://www.jstor.org/stable/2937753?seq=1#page_scan_tab_contents)," _Journal of Political Economy_, 98, 1119-58.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IVb.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Investment in General Skills
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Acemoglu, Daron (1997a) "[Training and Innovation in An Imperfect Labor Market](https://academic.oup.com/restud/article/64/3/445/1585141)," _Review of Economic Studies_ 64, 445-464.
 
@@ -803,19 +600,11 @@ Acemoglu, Daron and Jorn-Steffen Pischke (1999). “[Beyond Becker: Training in 
 
 — — — (2000) “[Minimum Wages and on-the-Job Training](http://www.nber.org/papers/w7184)," _Research in Labor Economics_ 22, 2003, 159-202.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IVc.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Specific Skills, Investments and Learning
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Topel, Robert (1991). “[Specific Capital, Mobility, and Wages: Wages Rise with Job Seniority](https://www.jstor.org/stable/2937716?seq=1#page_scan_tab_contents),” _Journal of Political Economy_ v99, n1 145-76.
 
@@ -839,33 +628,21 @@ Topel, Robert and Michael Ward (1992). "[Job Mobility and the Careers of Young M
 
 Charmichael, Lorne, (1983). “[Firm-Specific Capital and Promotion Ladders](https://www.jstor.org/stable/3003551?seq=1#page_scan_tab_contents)”, _Bell Journal of Economics_, Vol. 14, No. 1, pp. 251-258.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512947) Lazear, Edward P. Personnel Economics, (Cambridge: MIT Press), 1995, Chapter 7. ISBN: 9780262512947.
+![Buy at MIT Press](/images/mp_logo.gif) Lazear, Edward P. Personnel Economics, (Cambridge: MIT Press), 1995, Chapter 7. ISBN: 9780262512947.
 
 Farber, Henry and Robert Gibbons (1996). “[Learning and Wage Dynamics](https://academic.oup.com/qje/article/111/4/1007/1932160),” _Quarterly Journal of Economics_, 111, 107-147.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **V. Search and Unemployment**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Va.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Unemployment, Non-Employment and Labor Market Flows
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \*Nickell, Steve (1997) “[Unemployment and Labor Market Rigidities: Europe versus North America](https://www.jstor.org/stable/2138184?seq=1#page_scan_tab_contents),” _Journal of Economic Perspectives_, Vol 11, pp. 55-74.
 
-Shimer, Robert (1998) “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Why Is the U.S. Unemployment Rate So Much Lower? (PDF)](http://www.nber.org/chapters/c11245.pdf)” _Macroeconomics Annual_, 1998.
+Shimer, Robert (1998) “[Why Is the U.S. Unemployment Rate So Much Lower? (PDF)](http://www.nber.org/chapters/c11245.pdf)” _Macroeconomics Annual_, 1998.
 
 \*Juhn, Chinhui, Kevin Murphy and Robert H. Topel, (1991) “[Why Has the Natural Rate of Unemployment Increased over Time?](https://www.brookings.edu/bpea-articles/why-has-the-natural-rate-of-unemployment-increased-over-time/)" _Brookings Papers on Economic Activity_, 1991(2) pp.75- 126.
 
@@ -873,55 +650,29 @@ Shimer, Robert (1998) “![This resource may not render correctly in a screen re
 
 Blanchard, Olivier and Peter Diamond (1989); “[The Beveridge Curve](https://www.brookings.edu/bpea-articles/the-beveridge-curve/),” _Brookings Papers on Economics Activity_ 1989:1, pp 1-60.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Vb.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Partial Equilibrium Search Model
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \*Rogerson, Richard, Robert Shimer and Randall Wright (2004) “[Search Models of the Labor Market: A Survey](https://www.aeaweb.org/articles?id=10.1257/002205105775362014),” _Journal of Economic Literature_, 43, pp. 959-988.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Vc.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Basic Equilibrium Search Framework
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-\*[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262533980) Pissarides, Christopher. _Equilibrium Unemployment Theory_, MIT Press, 2000. ISBN: 9780252533980. 
+\*![Buy at MIT Press](/images/mp_logo.gif) Pissarides, Christopher. _Equilibrium Unemployment Theory_, MIT Press, 2000. ISBN: 9780252533980. 
 
 Hosios, Arthur (1990) “[On the Efficiency of Matching and Related Models of Search and Unemployment](https://www.jstor.org/stable/2297382).” _Review of Economics Studies_ 57:2, 279-98.
 
 \*Mortensen, Dale and Christopher Pissarides (1994). “[Job Creation and Job Destruction in the Theory of Unemployment](https://www.jstor.org/stable/2297896?seq=1#page_scan_tab_contents),” _Review of Economic Studies_ Vol 61, pp 397-416.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Vd.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment Models
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Rosen, Sherwin (1981) “[The Economics of Superstars](https://www.jstor.org/stable/1803469?seq=1#page_scan_tab_contents),” _American Economic Review_, 71, pp. 845-858.
 
@@ -935,19 +686,11 @@ Tervio, Marko (2008) “[The Difference that CEOs Make: An Assignment Model Appr
 
 Acemoglu, Daron, David Laibson and John List (2014) “[Equalizing Superstars: The Internet and the Democratization of Education](http://www.nber.org/papers/w19851)” _American Economic Review: Papers and Proceedings_, pp. 523-527.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Ve.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Composition of Jobs
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \*Acemoglu, Daron (2001), “[Good Jobs vs Bad Jobs](https://www.journals.uchicago.edu/doi/abs/10.1086/209978),” _Journal of Labor Economics_, Janaury 2001,vol 19, pp 1-22.
 
@@ -959,19 +702,11 @@ Jaimovich, Nir and Henry Siu (2013) “[The Trend Is the Cycle: Job Polarization
 
 Foote, Christopher L. and Richard W. Ryan (2015) “[Labor Market Polarization over the Business Cycle](http://www.nber.org/papers/w21030),” NBER Macroeconomics Annual 2015 29:1, 371-413.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Vf.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Real Wage Rigidity, Unemployment and Unemployment Persistence
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Shimer, Robert (2005) “[The Cyclical Behavior of Equilibrium Unemployment in Vacancies](https://www.jstor.org/stable/4132669),” American Economic Review, vol 95, 25-49.
 
@@ -983,19 +718,11 @@ Hall, Robert E. (2008) “[Limited Influence of Unemployment on the Wage Bargain
 
 Shimer, Robert (2012) “[Wage Rigidities and Jobless Recoveries](https://www.sciencedirect.com/science/article/pii/S0304393212001390),” _Journal of Monetary Economics_, 59, S65-S77.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Vg.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Nominal Wage Rigidity and
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \* Bewley, Truman (1999), _Why Wages Don’t Fall During a Recession_, Harvard University Press. ISBN: 9780674009431.
 
@@ -1009,9 +736,4 @@ Dickens W.T., L. Goette, E.L. Groshen, S. Holden, J. Messina, M.E. Schweitzer, J
 
 Nickell, Steve , and Glenda Quintini (2003). “[Nominal Wage Rigidity and the Rate of Inflation](http://www.jstor.org/stable/3590282?seq=1#page_scan_tab_contents).” _The Economic Journal_ vol. 113, 762–781.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
