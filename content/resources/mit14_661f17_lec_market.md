@@ -5,6 +5,7 @@ file: /courses/14-661-labor-economics-i-fall-2017/c186e680c574a1dae5497c6fd357fc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
