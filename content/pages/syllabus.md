@@ -1,86 +1,54 @@
 ---
 content_type: page
 description: 'This section contains basic information and logistics for the course. '
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 4a067068-55f6-3c8a-22d7-2cdee80f13e9
 ---
-
-Class Meeting Times
--------------------
+## Class Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
 Recitations: 1 session / week, 1.5 hours / session 
 
-Prerequisites
--------------
+## Prerequisites
 
-The prerequisites for this course are _[14.04 Intermediate Microeconomic Theory](/courses/14-04-intermediate-microeconomic-theory-fall-2006)_ and _[14.32 Econometrics](/courses/14-32-econometrics-spring-2007)_. 
+The prerequisites for this course are [*14.04 Intermediate Microeconomic Theory*](/courses/14-04-intermediate-microeconomic-theory-fall-2006) and [*14.32 Econometrics*](/courses/14-32-econometrics-spring-2007). 
 
-Course Format
--------------
+## Course Format
 
 The course was divided into two halves. Prof. Josh Angrist taught the first part, and Prof. Daron Acemoglu taught the second part. 
 
-Class Requirements
-------------------
+## Class Requirements
 
 Grades are based on four problem sets, an emperical project involving replication and extension of published work, and a three-hour final during exam week. In addition, there are two ungraded problem sets, one at the beginning and one at the end of the course. 
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITY
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 POINTS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Four problem sets
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Empirical project
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 30
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final exam
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 40
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+##  Books
 
-{{< tableclose >}}
+O.Ashenfelter and R. Layard. *The Handbook of Labor Economics. Vol. 1*. North-Holland, 1987. ISBN: 9780444878564.
 
- Books
-------
+J. Angrist and Jörn-Steffen Pischke. *Mostly Harmless Econometrics: An Empiricist's Companion*. Princeton University Press, 2008. ISBN: 9780691120355.
 
-O.Ashenfelter and R. Layard. _The Handbook of Labor Economics. Vol. 1_. North-Holland, 1987. ISBN: 9780444878564.
+— — —. *Mastering 'Metrics: The Path from Cause to Effect*. Princeton University, 2014. ISBN: 9780691152844.
 
-J. Angrist and Jörn-Steffen Pischke. _Mostly Harmless Econometrics: An Empiricist's Companion_. Princeton University Press, 2008. ISBN: 9780691120355.
-
-— — —. _Mastering 'Metrics: The Path from Cause to Effect_. Princeton University, 2014. ISBN: 9780691152844.
-
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027700) P. Cahuch, Stéphane Carcillo, and André Zylberberg. _Labor Economics, Second Edition_. MIT Press, 2014. ISBN:  9780262027700.
-
-You may also want to consult the [lecture notes (PDF - 2.3MB)](https://economics.mit.edu/files/4689) by Daron Acemoglu and David Autor, though these do not cover all our material.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027700) P. Cahuch, Stéphane Carcillo, and André Zylberberg. *Labor Economics, Second Edition*. MIT Press, 2014. ISBN:  9780262027700.
