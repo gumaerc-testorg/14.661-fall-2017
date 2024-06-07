@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-661-labor-economics-i-fall-2017/0ece5ff389af11b58cfd121ee744e8ee_MIT14_661F17_lec_immig.pdf
+file_size: 304401
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
