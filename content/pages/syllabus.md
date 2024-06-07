@@ -15,7 +15,7 @@ Recitations: 1 session / week, 1.5 hours / session 
 
 ## Prerequisites
 
-The prerequisites for this course are [*14.04 Intermediate Microeconomic Theory*](/courses/14-04-intermediate-microeconomic-theory-fall-2006) and [*14.32 Econometrics*](/courses/14-32-econometrics-spring-2007). 
+The prerequisites for this course are [*14.04 Intermediate Microeconomic Theory*](/courses/14-04-intermediate-microeconomic-theory-fall-2020/) and [*14.32 Econometrics*](/courses/14-32-econometrics-spring-2007). 
 
 ## Course Format
 
