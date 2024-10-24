@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-661-labor-economics-i-fall-2017/5df8571236969691e343a84a1956bdb8_MIT14_661F17_lec_schexp.pdf
+file: /ol-ocw-studio-app/courses/14-661-labor-economics-i-fall-2017/5df8571236969691e343a84a1956bdb8_MIT14_661F17_lec_schexp.pdf
 file_size: 336598
 file_type: application/pdf
 learning_resource_types:
