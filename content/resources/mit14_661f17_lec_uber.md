@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-661-labor-economics-i-fall-2017/f890c81267eaf986ca395df4d1bedc9d_MIT14_661F17_lec_Uber.pdf
+file: /courses/14-661-labor-economics-i-fall-2017/f890c81267eaf986ca395df4d1bedc9d_MIT14_661F17_lec_Uber.pdf
 file_size: 603845
 file_type: application/pdf
 learning_resource_types:
