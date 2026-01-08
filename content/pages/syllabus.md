@@ -51,4 +51,4 @@ J. Angrist and Jörn-Steffen Pischke. *Mostly Harmless Econometrics: An Empirici
 
 — — —. *Mastering 'Metrics: The Path from Cause to Effect*. Princeton University, 2014. ISBN: 9780691152844.
 
-{{% resource_link "1768da93-24f4-4d1d-9c6d-a683f5c35e0e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} P. Cahuch, Stéphane Carcillo, and André Zylberberg. *Labor Economics, Second Edition*. MIT Press, 2014. ISBN:  9780262027700.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027700) P. Cahuch, Stéphane Carcillo, and André Zylberberg. *Labor Economics, Second Edition*. MIT Press, 2014. ISBN:  9780262027700.
